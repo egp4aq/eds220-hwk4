@@ -17,7 +17,11 @@ eds220-hwk4
 
 ## Data
 
-The two main data for this repository are the 
+- https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
+Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data, collected by the Landsat 8 satellite.
+
+- https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
+Open-access data about fire perimeters in California. 
 
 ## References
 
