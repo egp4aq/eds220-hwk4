@@ -25,3 +25,6 @@ Open-access data about fire perimeters in California.
 
 ## References
 
+U.S. Geological Survey. California fire perimeters [Data set]. U.S. Department of the Interior. Retrieved November 12, 2024, from https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436
+
+Microsoft. Landsat C2 L2. Microsoft Planetary Computer. Retrieved November 12, 2024, from https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2
