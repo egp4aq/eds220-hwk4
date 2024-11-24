@@ -6,7 +6,7 @@ This repository contains two notebooks: `hwk4-task2-fire-perimeter-PETERSON.ipyn
 
 ## Repository Structure
 
-'''bash
+```bash
 
 eds220-hwk4
 │   README.md
@@ -17,7 +17,7 @@ eds220-hwk4
 └───data
     │   thomas-fire-boundary-file
   
-'''
+```
 
 ## Data
 
